@@ -7,6 +7,7 @@ the input parameter can be customized.
 """
 
 from __future__ import print_function
+import logging
 
 import grpc
 from google.protobuf.json_format import MessageToJson
@@ -70,4 +71,5 @@ def run():
 
 
 if __name__ == '__main__':
+    logging.basicConfig()
     run()
