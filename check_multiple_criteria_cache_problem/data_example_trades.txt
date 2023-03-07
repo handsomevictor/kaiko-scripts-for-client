@@ -1,0 +1,3948 @@
+{
+  "additionalProperties": {
+    "sequence": "56154094771"
+  },
+  "amount": 0.01,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3lkva6f98h3hsltak0",
+  "id": "505496779",
+  "price": 22410.63,
+  "side": "BUY",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:37.321126Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:37.338226004Z"
+  },
+  "tsEvent": "2023-03-07T15:38:37.386874229Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154095107"
+  },
+  "amount": 0.08177793,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3lkva6f98h3hsltbb0",
+  "id": "505496785",
+  "price": 22406.4,
+  "side": "BUY",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:37.472316Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:37.510211694Z"
+  },
+  "tsEvent": "2023-03-07T15:38:37.545836998Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154095105"
+  },
+  "amount": 0.01,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3lkva6f98h3hsltba0",
+  "id": "505496784",
+  "price": 22406.58,
+  "side": "BUY",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:37.472316Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:37.510150082Z"
+  },
+  "tsEvent": "2023-03-07T15:38:37.545824826Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154095099"
+  },
+  "amount": 0.04,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3lkva6f98h3hsltbd0",
+  "id": "505496782",
+  "price": 22406.58,
+  "side": "BUY",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:37.472240Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:37.510003527Z"
+  },
+  "tsEvent": "2023-03-07T15:38:37.545920324Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154095101"
+  },
+  "amount": 0.024,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3lkva6f98h3hsltbc0",
+  "id": "505496783",
+  "price": 22406.58,
+  "side": "BUY",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:37.472240Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:37.510061043Z"
+  },
+  "tsEvent": "2023-03-07T15:38:37.545913630Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154095097"
+  },
+  "amount": 0.01,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3lkva6f98h3hsltbk0",
+  "id": "505496781",
+  "price": 22407.16,
+  "side": "BUY",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:37.472240Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:37.497321137Z"
+  },
+  "tsEvent": "2023-03-07T15:38:37.545941009Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154094904"
+  },
+  "amount": 0.01,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3lkva6f98h3hsltbgg",
+  "id": "505496780",
+  "price": 22408.51,
+  "side": "BUY",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:37.378409Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:37.404090571Z"
+  },
+  "tsEvent": "2023-03-07T15:38:37.545933633Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154095618"
+  },
+  "amount": 1.19,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3lkva6f98h3hsltc1g",
+  "id": "505496786",
+  "price": 22406.83,
+  "side": "BUY",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:37.786245Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:37.826840022Z"
+  },
+  "tsEvent": "2023-03-07T15:38:37.849231695Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154096422"
+  },
+  "amount": 0.01,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3lkvi6f98h3hsltf6g",
+  "id": "505496787",
+  "price": 22405.44,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:38.244484Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:38.259987164Z"
+  },
+  "tsEvent": "2023-03-07T15:38:38.401789854Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154096434"
+  },
+  "amount": 0.02231649,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3lkvi6f98h3hsltfbg",
+  "id": "505496793",
+  "price": 22405.69,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:38.244484Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:38.260260775Z"
+  },
+  "tsEvent": "2023-03-07T15:38:38.401806794Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154096430"
+  },
+  "amount": 0.03347469,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3lkvi6f98h3hsltfa0",
+  "id": "505496791",
+  "price": 22405.67,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:38.244484Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:38.260174576Z"
+  },
+  "tsEvent": "2023-03-07T15:38:38.401805195Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154096436"
+  },
+  "amount": 0.01,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3lkvi6f98h3hsltff0",
+  "id": "505496794",
+  "price": 22405.9,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:38.244484Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:38.260299480Z"
+  },
+  "tsEvent": "2023-03-07T15:38:38.401815367Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154096424"
+  },
+  "amount": 0.00892747,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3lkvi6f98h3hsltfj0",
+  "id": "505496788",
+  "price": 22405.45,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:38.244484Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:38.260039573Z"
+  },
+  "tsEvent": "2023-03-07T15:38:38.401832476Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154096428"
+  },
+  "amount": 0.03347475,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3lkvi6f98h3hsltfmg",
+  "id": "505496790",
+  "price": 22405.6,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:38.244484Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:38.260136076Z"
+  },
+  "tsEvent": "2023-03-07T15:38:38.401844588Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154096432"
+  },
+  "amount": 0.02231646,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3lkvi6f98h3hsltflg",
+  "id": "505496792",
+  "price": 22405.68,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:38.244484Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:38.260209670Z"
+  },
+  "tsEvent": "2023-03-07T15:38:38.401841175Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154096426"
+  },
+  "amount": 0.00892741,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3lkvi6f98h3hsltfng",
+  "id": "505496789",
+  "price": 22405.6,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:38.244484Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:38.260092832Z"
+  },
+  "tsEvent": "2023-03-07T15:38:38.401846527Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154096662"
+  },
+  "amount": 0.01,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3lkvi6f98h3hslthp0",
+  "id": "505496795",
+  "price": 22405.89,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:38.341926Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:38.389695340Z"
+  },
+  "tsEvent": "2023-03-07T15:38:38.402282809Z"
+}
+{
+  "amount": 0.9564,
+  "class": "spot",
+  "code": "eth-btc",
+  "exchange": "binc",
+  "sequenceId": "cg3lkvs6h1jih08ac5v0",
+  "id": "405653052",
+  "price": 0.069978,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:39.413Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:39.580230894Z"
+  },
+  "tsEvent": "2023-03-07T15:38:39.674846217Z",
+  "additionalProperties": {}
+}
+{
+  "amount": 0.0436,
+  "class": "spot",
+  "code": "eth-btc",
+  "exchange": "binc",
+  "sequenceId": "cg3lkvs6h1jih08aceu0",
+  "id": "405653053",
+  "price": 0.069978,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:39.490Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:39.660946537Z"
+  },
+  "tsEvent": "2023-03-07T15:38:39.872526648Z",
+  "additionalProperties": {}
+}
+{
+  "additionalProperties": {
+    "sequence": "56154098854"
+  },
+  "amount": 0.044,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll026f98h3hsltl50",
+  "id": "505496797",
+  "price": 22409.68,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:39.990090Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:40.014399689Z"
+  },
+  "tsEvent": "2023-03-07T15:38:40.210387568Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154098863"
+  },
+  "amount": 0.02418067,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll026f98h3hsltl80",
+  "id": "505496800",
+  "price": 22411.41,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:39.990160Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:40.014547345Z"
+  },
+  "tsEvent": "2023-03-07T15:38:40.210408556Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154098858"
+  },
+  "amount": 0.07713239,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll026f98h3hsltl6g",
+  "id": "505496799",
+  "price": 22411.41,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:39.990090Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:40.014468824Z"
+  },
+  "tsEvent": "2023-03-07T15:38:40.210404456Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154098831"
+  },
+  "amount": 0.033468,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll026f98h3hsltla0",
+  "id": "505496796",
+  "price": 22408.53,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:39.986989Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:40.014072267Z"
+  },
+  "tsEvent": "2023-03-07T15:38:40.210418329Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154098856"
+  },
+  "amount": 0.06577118,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll026f98h3hsltle0",
+  "id": "505496798",
+  "price": 22411.4,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:39.990090Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:40.014424905Z"
+  },
+  "tsEvent": "2023-03-07T15:38:40.210433124Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154099602"
+  },
+  "amount": 0.00123785,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll026f98h3hsltlj0",
+  "id": "505496801",
+  "price": 22412.14,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:40.272014Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:40.284089750Z"
+  },
+  "tsEvent": "2023-03-07T15:38:40.460486500Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154100229"
+  },
+  "amount": 0.00213254,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll026f98h3hsltmtg",
+  "id": "505496802",
+  "price": 22413.03,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:40.701942Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:40.731453528Z"
+  },
+  "tsEvent": "2023-03-07T15:38:40.893982352Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154101079"
+  },
+  "amount": 0.014,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll0a6f98h3hsltnng",
+  "id": "505496805",
+  "price": 22412.23,
+  "side": "BUY",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:41.299979Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:41.321269524Z"
+  },
+  "tsEvent": "2023-03-07T15:38:41.463311064Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154101077"
+  },
+  "amount": 0.00472706,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll0a6f98h3hsltnq0",
+  "id": "505496804",
+  "price": 22412.96,
+  "side": "BUY",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:41.299979Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:41.321229450Z"
+  },
+  "tsEvent": "2023-03-07T15:38:41.463328874Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154101074"
+  },
+  "amount": 0.022308,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll0a6f98h3hsltnn0",
+  "id": "505496803",
+  "price": 22412.96,
+  "side": "BUY",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:41.299950Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:41.313618749Z"
+  },
+  "tsEvent": "2023-03-07T15:38:41.463299869Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154101111"
+  },
+  "amount": 0.13375764,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll0a6f98h3hsltns0",
+  "id": "505496808",
+  "price": 22408.29,
+  "side": "BUY",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:41.302891Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:41.324372034Z"
+  },
+  "tsEvent": "2023-03-07T15:38:41.463357807Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154101109"
+  },
+  "amount": 0.11348299,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll0a6f98h3hsltnt0",
+  "id": "505496807",
+  "price": 22408.36,
+  "side": "BUY",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:41.302891Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:41.324337004Z"
+  },
+  "tsEvent": "2023-03-07T15:38:41.463407337Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154101115"
+  },
+  "amount": 0.04539322,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll0a6f98h3hsltnu0",
+  "id": "505496810",
+  "price": 22408.29,
+  "side": "BUY",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:41.302891Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:41.324420621Z"
+  },
+  "tsEvent": "2023-03-07T15:38:41.463475952Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154101397"
+  },
+  "amount": 0.01,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll0a6f98h3hsltnvg",
+  "id": "505496811",
+  "price": 22409.44,
+  "side": "BUY",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:41.357957Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:41.373840315Z"
+  },
+  "tsEvent": "2023-03-07T15:38:41.463522728Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154101107"
+  },
+  "amount": 0.00162029,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll0a6f98h3hslto10",
+  "id": "505496806",
+  "price": 22408.36,
+  "side": "BUY",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:41.302891Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:41.324249451Z"
+  },
+  "tsEvent": "2023-03-07T15:38:41.463530917Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154101113"
+  },
+  "amount": 0.00510625,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll0a6f98h3hslto2g",
+  "id": "505496809",
+  "price": 22408.29,
+  "side": "BUY",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:41.302891Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:41.324396552Z"
+  },
+  "tsEvent": "2023-03-07T15:38:41.463535366Z"
+}
+{
+  "amount": 0.002,
+  "class": "spot",
+  "code": "eth-btc",
+  "exchange": "binc",
+  "sequenceId": "cg3ll0c6h1jih08aed40",
+  "id": "405653054",
+  "price": 0.06998,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:41.240Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:41.623832915Z"
+  },
+  "tsEvent": "2023-03-07T15:38:41.691140293Z",
+  "additionalProperties": {}
+}
+{
+  "amount": 0.1734,
+  "class": "spot",
+  "code": "eth-btc",
+  "exchange": "binc",
+  "sequenceId": "cg3ll0c6h1jih08aed30",
+  "id": "405653055",
+  "price": 0.06998,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:41.240Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:41.623849627Z"
+  },
+  "tsEvent": "2023-03-07T15:38:41.691121695Z",
+  "additionalProperties": {}
+}
+{
+  "additionalProperties": {
+    "sequence": "56154102044"
+  },
+  "amount": 0.01,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll0a6f98h3hsltoo0",
+  "id": "505496812",
+  "price": 22406.49,
+  "side": "BUY",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:41.710251Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:41.726356051Z"
+  },
+  "tsEvent": "2023-03-07T15:38:41.931113413Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154102337"
+  },
+  "amount": 0.07337582,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll0i6f98h3hsltoug",
+  "id": "505496814",
+  "price": 22405.61,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:41.947643Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:41.973259414Z"
+  },
+  "tsEvent": "2023-03-07T15:38:42.183235292Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154102335"
+  },
+  "amount": 0.08854164,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll0i6f98h3hsltou0",
+  "id": "505496813",
+  "price": 22405.6,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:41.947643Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:41.967871608Z"
+  },
+  "tsEvent": "2023-03-07T15:38:42.183235162Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154102819"
+  },
+  "amount": 0.01,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll0i6f98h3hsltp10",
+  "id": "505496816",
+  "price": 22408.25,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:42.229417Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:42.252714773Z"
+  },
+  "tsEvent": "2023-03-07T15:38:42.450212245Z"
+}
+{
+  "amount": 0.002,
+  "class": "spot",
+  "code": "eth-btc",
+  "exchange": "binc",
+  "sequenceId": "cg3ll0k6h1jih08af9kg",
+  "id": "405653056",
+  "price": 0.069981,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:41.995Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:42.428948178Z"
+  },
+  "tsEvent": "2023-03-07T15:38:42.503525619Z",
+  "additionalProperties": {}
+}
+{
+  "additionalProperties": {
+    "sequence": "56154102813"
+  },
+  "amount": 0.01,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll0i6f98h3hsltp1g",
+  "id": "505496815",
+  "price": 22408.24,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:42.229363Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:42.252580436Z"
+  },
+  "tsEvent": "2023-03-07T15:38:42.450215093Z"
+}
+{
+  "amount": 0.002,
+  "class": "spot",
+  "code": "eth-btc",
+  "exchange": "binc",
+  "sequenceId": "cg3ll0k6h1jih08afa60",
+  "id": "405653057",
+  "price": 0.069981,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:41.995Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:42.478548709Z"
+  },
+  "tsEvent": "2023-03-07T15:38:42.503707180Z",
+  "additionalProperties": {}
+}
+{
+  "additionalProperties": {
+    "sequence": "56154103401"
+  },
+  "amount": 8.883e-05,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll0i6f98h3hsltp80",
+  "id": "505496817",
+  "price": 22410.03,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:42.618940Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:42.632323791Z"
+  },
+  "tsEvent": "2023-03-07T15:38:42.717470727Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154103734"
+  },
+  "amount": 0.005,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll0q6f98h3hsltpf0",
+  "id": "505496818",
+  "price": 22409.66,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:42.983831Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:42.999571687Z"
+  },
+  "tsEvent": "2023-03-07T15:38:43.040239188Z"
+}
+{
+  "amount": 0.0142,
+  "class": "spot",
+  "code": "eth-btc",
+  "exchange": "binc",
+  "sequenceId": "cg3ll0s6h1jih08afmu0",
+  "id": "405653058",
+  "price": 0.069982,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:42.948Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:43.173641402Z"
+  },
+  "tsEvent": "2023-03-07T15:38:43.659848321Z",
+  "additionalProperties": {}
+}
+{
+  "amount": 0.002,
+  "class": "spot",
+  "code": "eth-btc",
+  "exchange": "binc",
+  "sequenceId": "cg3ll0s6h1jih08afn60",
+  "id": "405653059",
+  "price": 0.069982,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:42.948Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:43.173659530Z"
+  },
+  "tsEvent": "2023-03-07T15:38:43.659952379Z",
+  "additionalProperties": {}
+}
+{
+  "amount": 0.1279,
+  "class": "spot",
+  "code": "eth-btc",
+  "exchange": "binc",
+  "sequenceId": "cg3ll0s6h1jih08afsg0",
+  "id": "405653060",
+  "price": 0.069982,
+  "side": "BUY",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:43.190Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:43.385505149Z"
+  },
+  "tsEvent": "2023-03-07T15:38:43.664373337Z",
+  "additionalProperties": {}
+}
+{
+  "amount": 0.5695,
+  "class": "spot",
+  "code": "eth-btc",
+  "exchange": "binc",
+  "sequenceId": "cg3ll146h1jih08ag6m0",
+  "id": "405653062",
+  "price": 0.069983,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:43.797Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:43.988703622Z"
+  },
+  "tsEvent": "2023-03-07T15:38:44.123028439Z",
+  "additionalProperties": {}
+}
+{
+  "amount": 0.002,
+  "class": "spot",
+  "code": "eth-btc",
+  "exchange": "binc",
+  "sequenceId": "cg3ll146h1jih08ag6t0",
+  "id": "405653061",
+  "price": 0.069983,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:43.797Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:43.988658504Z"
+  },
+  "tsEvent": "2023-03-07T15:38:44.123157885Z",
+  "additionalProperties": {}
+}
+{
+  "amount": 0.4329,
+  "class": "spot",
+  "code": "eth-btc",
+  "exchange": "binc",
+  "sequenceId": "cg3ll146h1jih08ag720",
+  "id": "405653063",
+  "price": 0.069983,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:43.836Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:44.029537311Z"
+  },
+  "tsEvent": "2023-03-07T15:38:44.123227821Z",
+  "additionalProperties": {}
+}
+{
+  "amount": 0.4263,
+  "class": "spot",
+  "code": "eth-btc",
+  "exchange": "binc",
+  "sequenceId": "cg3ll146h1jih08agg1g",
+  "id": "405653064",
+  "price": 0.069983,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:44.208Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:44.520207387Z"
+  },
+  "tsEvent": "2023-03-07T15:38:44.536432547Z",
+  "additionalProperties": {}
+}
+{
+  "additionalProperties": {
+    "sequence": "56154106142"
+  },
+  "amount": 0.01,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll126f98h3hsltqn0",
+  "id": "505496819",
+  "price": 22403.43,
+  "side": "BUY",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:44.575786Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:44.592464405Z"
+  },
+  "tsEvent": "2023-03-07T15:38:44.595442544Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154106387"
+  },
+  "amount": 0.00137079,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll126f98h3hsltr00",
+  "id": "505496820",
+  "price": 22402.87,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:44.744668Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:44.769072457Z"
+  },
+  "tsEvent": "2023-03-07T15:38:44.809879839Z"
+}
+{
+  "amount": 3.6408,
+  "class": "spot",
+  "code": "eth-btc",
+  "exchange": "binc",
+  "sequenceId": "cg3ll146h1jih08agsg0",
+  "id": "405653070",
+  "price": 0.069988,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:44.654Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:44.847263647Z"
+  },
+  "tsEvent": "2023-03-07T15:38:44.930890900Z",
+  "additionalProperties": {}
+}
+{
+  "amount": 0.002,
+  "class": "spot",
+  "code": "eth-btc",
+  "exchange": "binc",
+  "sequenceId": "cg3ll146h1jih08agshg",
+  "id": "405653069",
+  "price": 0.069988,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:44.654Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:44.847235470Z"
+  },
+  "tsEvent": "2023-03-07T15:38:44.930923995Z",
+  "additionalProperties": {}
+}
+{
+  "amount": 0.002,
+  "class": "spot",
+  "code": "eth-btc",
+  "exchange": "binc",
+  "sequenceId": "cg3ll146h1jih08agsk0",
+  "id": "405653065",
+  "price": 0.069984,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:44.654Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:44.847150540Z"
+  },
+  "tsEvent": "2023-03-07T15:38:44.930996978Z",
+  "additionalProperties": {}
+}
+{
+  "amount": 0.002,
+  "class": "spot",
+  "code": "eth-btc",
+  "exchange": "binc",
+  "sequenceId": "cg3ll146h1jih08agsm0",
+  "id": "405653067",
+  "price": 0.069986,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:44.654Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:44.847174598Z"
+  },
+  "tsEvent": "2023-03-07T15:38:44.931077052Z",
+  "additionalProperties": {}
+}
+{
+  "amount": 0.002,
+  "class": "spot",
+  "code": "eth-btc",
+  "exchange": "binc",
+  "sequenceId": "cg3ll146h1jih08agsp0",
+  "id": "405653068",
+  "price": 0.069987,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:44.654Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:44.847211211Z"
+  },
+  "tsEvent": "2023-03-07T15:38:44.931110143Z",
+  "additionalProperties": {}
+}
+{
+  "amount": 0.002,
+  "class": "spot",
+  "code": "eth-btc",
+  "exchange": "binc",
+  "sequenceId": "cg3ll146h1jih08agsu0",
+  "id": "405653066",
+  "price": 0.069985,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:44.654Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:44.847162708Z"
+  },
+  "tsEvent": "2023-03-07T15:38:44.931136650Z",
+  "additionalProperties": {}
+}
+{
+  "amount": 0.0388,
+  "class": "spot",
+  "code": "eth-btc",
+  "exchange": "binc",
+  "sequenceId": "cg3ll1c6h1jih08agum0",
+  "id": "405653071",
+  "price": 0.069988,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:44.709Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:44.942230651Z"
+  },
+  "tsEvent": "2023-03-07T15:38:45.127737544Z",
+  "additionalProperties": {}
+}
+{
+  "additionalProperties": {
+    "sequence": "56154106483"
+  },
+  "amount": 0.08928133,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll1a6f98h3hsltr1g",
+  "id": "505496826",
+  "price": 22403.83,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:44.905405Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:44.917653465Z"
+  },
+  "tsEvent": "2023-03-07T15:38:45.047499153Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154106497"
+  },
+  "amount": 0.044,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll1a6f98h3hsltr3g",
+  "id": "505496833",
+  "price": 22405.9,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:44.905405Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:44.924291698Z"
+  },
+  "tsEvent": "2023-03-07T15:38:45.047539898Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154106495"
+  },
+  "amount": 0.13389958,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll1a6f98h3hsltr50",
+  "id": "505496832",
+  "price": 22405.89,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:44.905405Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:44.924268180Z"
+  },
+  "tsEvent": "2023-03-07T15:38:45.047597869Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154106503"
+  },
+  "amount": 0.0712101,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll1a6f98h3hsltr30",
+  "id": "505496836",
+  "price": 22407.58,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:44.905405Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:44.924361208Z"
+  },
+  "tsEvent": "2023-03-07T15:38:45.047539350Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154106491"
+  },
+  "amount": 0.02231856,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll1a6f98h3hsltr70",
+  "id": "505496830",
+  "price": 22405.04,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:44.905405Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:44.924207311Z"
+  },
+  "tsEvent": "2023-03-07T15:38:45.047634206Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154106485"
+  },
+  "amount": 0.03347724,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll1a6f98h3hsltr8g",
+  "id": "505496827",
+  "price": 22405.04,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:44.905405Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:44.917681272Z"
+  },
+  "tsEvent": "2023-03-07T15:38:45.047652164Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154106477"
+  },
+  "amount": 0.033477,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll1a6f98h3hsltrdg",
+  "id": "505496823",
+  "price": 22402.87,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:44.905405Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:44.917411140Z"
+  },
+  "tsEvent": "2023-03-07T15:38:45.047680325Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154106489"
+  },
+  "amount": 0.03347742,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll1a6f98h3hsltr80",
+  "id": "505496829",
+  "price": 22405.04,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:44.905405Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:44.924159594Z"
+  },
+  "tsEvent": "2023-03-07T15:38:45.047648585Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154106493"
+  },
+  "amount": 0.07115989,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll1a6f98h3hsltrag",
+  "id": "505496831",
+  "price": 22405.88,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:44.905405Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:44.924231450Z"
+  },
+  "tsEvent": "2023-03-07T15:38:45.047664086Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154106475"
+  },
+  "amount": 0.033477,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll1a6f98h3hsltrc0",
+  "id": "505496822",
+  "price": 22402.87,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:44.905405Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:44.917334174Z"
+  },
+  "tsEvent": "2023-03-07T15:38:45.047677268Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154106479"
+  },
+  "amount": 0.00892832,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll1a6f98h3hsltreg",
+  "id": "505496824",
+  "price": 22403.33,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:44.905405Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:44.917442378Z"
+  },
+  "tsEvent": "2023-03-07T15:38:45.047689097Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154106499"
+  },
+  "amount": 0.02,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll1a6f98h3hsltrgg",
+  "id": "505496834",
+  "price": 22407.57,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:44.905405Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:44.924314542Z"
+  },
+  "tsEvent": "2023-03-07T15:38:45.047707097Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154106501"
+  },
+  "amount": 0.02,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll1a6f98h3hsltrg0",
+  "id": "505496835",
+  "price": 22407.58,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:44.905405Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:44.924335378Z"
+  },
+  "tsEvent": "2023-03-07T15:38:45.047700672Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154106481"
+  },
+  "amount": 0.0089282,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll1a6f98h3hsltrh0",
+  "id": "505496825",
+  "price": 22403.61,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:44.905405Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:44.917626442Z"
+  },
+  "tsEvent": "2023-03-07T15:38:45.047707537Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154106487"
+  },
+  "amount": 0.03347742,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll1a6f98h3hsltrig",
+  "id": "505496828",
+  "price": 22405.04,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:44.905405Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:44.917708285Z"
+  },
+  "tsEvent": "2023-03-07T15:38:45.047713370Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154106473"
+  },
+  "amount": 0.00862921,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll1a6f98h3hsltri0",
+  "id": "505496821",
+  "price": 22402.87,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:44.905405Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:44.917301419Z"
+  },
+  "tsEvent": "2023-03-07T15:38:45.047712234Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154106721"
+  },
+  "amount": 0.00017826,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll1a6f98h3hsltru0",
+  "id": "505496837",
+  "price": 22402.9,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:45.092108Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:45.104910575Z"
+  },
+  "tsEvent": "2023-03-07T15:38:45.287258370Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154107561"
+  },
+  "amount": 0.03618576,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll1a6f98h3hsltsdg",
+  "id": "505496839",
+  "price": 22406.19,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:45.667066Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:45.683148314Z"
+  },
+  "tsEvent": "2023-03-07T15:38:45.795181707Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154107559"
+  },
+  "amount": 0.01,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll1a6f98h3hsltsi0",
+  "id": "505496838",
+  "price": 22405.62,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:45.667066Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:45.683086443Z"
+  },
+  "tsEvent": "2023-03-07T15:38:45.795210894Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154107771"
+  },
+  "amount": 0.0264,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll1a6f98h3hsltsr0",
+  "id": "505496840",
+  "price": 22405.5,
+  "side": "BUY",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:45.753644Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:45.779614592Z"
+  },
+  "tsEvent": "2023-03-07T15:38:45.986314731Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154107777"
+  },
+  "amount": 5.119e-05,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll1a6f98h3hsltt7g",
+  "id": "505496841",
+  "price": 22405.5,
+  "side": "BUY",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:45.756487Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:45.773251570Z"
+  },
+  "tsEvent": "2023-03-07T15:38:45.986386593Z"
+}
+{
+  "amount": 0.3884,
+  "class": "spot",
+  "code": "eth-btc",
+  "exchange": "binc",
+  "sequenceId": "cg3ll1k6h1jih08ai0i0",
+  "id": "405653072",
+  "price": 0.069988,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:45.857Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:46.276631318Z"
+  },
+  "tsEvent": "2023-03-07T15:38:46.474039132Z",
+  "additionalProperties": {}
+}
+{
+  "additionalProperties": {
+    "sequence": "56154108165"
+  },
+  "amount": 0.00255,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll1i6f98h3hslttag",
+  "id": "505496842",
+  "price": 22402.91,
+  "side": "BUY",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:45.973462Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:45.992038663Z"
+  },
+  "tsEvent": "2023-03-07T15:38:46.822447064Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154108245"
+  },
+  "amount": 0.02,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll1i6f98h3hslttj0",
+  "id": "505496843",
+  "price": 22402.89,
+  "side": "BUY",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:46.046809Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:46.065560283Z"
+  },
+  "tsEvent": "2023-03-07T15:38:46.822553773Z"
+}
+{
+  "amount": 0.2675,
+  "class": "spot",
+  "code": "eth-btc",
+  "exchange": "binc",
+  "sequenceId": "cg3ll1k6h1jih08aib30",
+  "id": "405653073",
+  "price": 0.069987,
+  "side": "BUY",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:46.721Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:46.953296676Z"
+  },
+  "tsEvent": "2023-03-07T15:38:46.963772942Z",
+  "additionalProperties": {}
+}
+{
+  "amount": 0.5959,
+  "class": "spot",
+  "code": "eth-btc",
+  "exchange": "binc",
+  "sequenceId": "cg3ll1s6h1jih08aifeg",
+  "id": "405653074",
+  "price": 0.069987,
+  "side": "BUY",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:46.859Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:47.254214536Z"
+  },
+  "tsEvent": "2023-03-07T15:38:47.372000154Z",
+  "additionalProperties": {}
+}
+{
+  "additionalProperties": {
+    "sequence": "56154109905"
+  },
+  "amount": 0.56643722,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll1q6f98h3hsltuug",
+  "id": "505496845",
+  "price": 22405.27,
+  "side": "BUY",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:47.179111Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:47.201343516Z"
+  },
+  "tsEvent": "2023-03-07T15:38:47.422243726Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154109903"
+  },
+  "amount": 0.00255625,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll1q6f98h3hsltuv0",
+  "id": "505496844",
+  "price": 22405.28,
+  "side": "BUY",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:47.179111Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:47.201295546Z"
+  },
+  "tsEvent": "2023-03-07T15:38:47.422254133Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154110387"
+  },
+  "amount": 0.10406806,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll1q6f98h3hsltv40",
+  "id": "505496850",
+  "price": 22405.06,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:47.517900Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:47.555085485Z"
+  },
+  "tsEvent": "2023-03-07T15:38:47.635027115Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154110385"
+  },
+  "amount": 0.02231747,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll1q6f98h3hsltv5g",
+  "id": "505496849",
+  "price": 22405.05,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:47.517900Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:47.555060390Z"
+  },
+  "tsEvent": "2023-03-07T15:38:47.635052399Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154110255"
+  },
+  "amount": 0.00123778,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll1q6f98h3hsltv1g",
+  "id": "505496846",
+  "price": 22405.55,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:47.409586Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:47.430224185Z"
+  },
+  "tsEvent": "2023-03-07T15:38:47.634971783Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154110381"
+  },
+  "amount": 0.01,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll1q6f98h3hsltv20",
+  "id": "505496847",
+  "price": 22405.04,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:47.517900Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:47.554992703Z"
+  },
+  "tsEvent": "2023-03-07T15:38:47.634976628Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154110383"
+  },
+  "amount": 0.06964953,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll1q6f98h3hsltv50",
+  "id": "505496848",
+  "price": 22405.05,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:47.517900Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:47.555036867Z"
+  },
+  "tsEvent": "2023-03-07T15:38:47.635045085Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154110688"
+  },
+  "amount": 0.02788559,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll1q6f98h3hsltv80",
+  "id": "505496855",
+  "price": 22403.82,
+  "side": "BUY",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:47.672046Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:47.697806088Z"
+  },
+  "tsEvent": "2023-03-07T15:38:47.900050178Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154110680"
+  },
+  "amount": 0.00892523,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll1q6f98h3hsltv90",
+  "id": "505496851",
+  "price": 22405.51,
+  "side": "BUY",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:47.672046Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:47.693127402Z"
+  },
+  "tsEvent": "2023-03-07T15:38:47.900059195Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154110684"
+  },
+  "amount": 0.00892527,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll1q6f98h3hsltv8g",
+  "id": "505496853",
+  "price": 22405.27,
+  "side": "BUY",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:47.672046Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:47.693223504Z"
+  },
+  "tsEvent": "2023-03-07T15:38:47.900053679Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154110686"
+  },
+  "amount": 0.03347384,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll1q6f98h3hsltv9g",
+  "id": "505496854",
+  "price": 22403.83,
+  "side": "BUY",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:47.672046Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:47.693251022Z"
+  },
+  "tsEvent": "2023-03-07T15:38:47.900067397Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154110682"
+  },
+  "amount": 0.033472,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll1q6f98h3hsltvc0",
+  "id": "505496852",
+  "price": 22405.51,
+  "side": "BUY",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:47.672046Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:47.693166656Z"
+  },
+  "tsEvent": "2023-03-07T15:38:47.900124548Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154111136"
+  },
+  "amount": 1.19,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll226f98h3hsltvk0",
+  "id": "505496856",
+  "price": 22404.86,
+  "side": "BUY",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:48.114607Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:48.130403463Z"
+  },
+  "tsEvent": "2023-03-07T15:38:48.351370111Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154111283"
+  },
+  "amount": 0.11263085,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll226f98h3hsltvr0",
+  "id": "505496867",
+  "price": 22409.42,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:48.145640Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:48.176856232Z"
+  },
+  "tsEvent": "2023-03-07T15:38:48.352168037Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154111273"
+  },
+  "amount": 0.02,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll226f98h3hsltvsg",
+  "id": "505496862",
+  "price": 22408.88,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:48.145640Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:48.176649743Z"
+  },
+  "tsEvent": "2023-03-07T15:38:48.352182389Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154111277"
+  },
+  "amount": 0.11263085,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll226f98h3hsltvtg",
+  "id": "505496864",
+  "price": 22408.92,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:48.145640Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:48.176737171Z"
+  },
+  "tsEvent": "2023-03-07T15:38:48.352192072Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154111285"
+  },
+  "amount": 0.02,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll226f98h3hslu000",
+  "id": "505496868",
+  "price": 22409.43,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:48.145640Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:48.176898038Z"
+  },
+  "tsEvent": "2023-03-07T15:38:48.352266399Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154111224"
+  },
+  "amount": 0.06053509,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll226f98h3hsltvv0",
+  "id": "505496857",
+  "price": 22404.86,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:48.139643Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:48.165687849Z"
+  },
+  "tsEvent": "2023-03-07T15:38:48.352231706Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154111235"
+  },
+  "amount": 0.09638667,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll226f98h3hslu01g",
+  "id": "505496859",
+  "price": 22405.05,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:48.139724Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:48.165852847Z"
+  },
+  "tsEvent": "2023-03-07T15:38:48.352304034Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154111287"
+  },
+  "amount": 0.02,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll226f98h3hslu020",
+  "id": "505496869",
+  "price": 22409.44,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:48.145640Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:48.176931243Z"
+  },
+  "tsEvent": "2023-03-07T15:38:48.352304122Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154111275"
+  },
+  "amount": 0.02,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll226f98h3hslu04g",
+  "id": "505496863",
+  "price": 22408.92,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:48.145640Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:48.176680278Z"
+  },
+  "tsEvent": "2023-03-07T15:38:48.352329774Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154111271"
+  },
+  "amount": 0.00090722,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll226f98h3hslu010",
+  "id": "505496861",
+  "price": 22408.85,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:48.145640Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:48.176620458Z"
+  },
+  "tsEvent": "2023-03-07T15:38:48.352301607Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154111279"
+  },
+  "amount": 0.08926659,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll226f98h3hslu040",
+  "id": "505496865",
+  "price": 22408.93,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:48.145640Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:48.176782061Z"
+  },
+  "tsEvent": "2023-03-07T15:38:48.352324722Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154111233"
+  },
+  "amount": 0.0899609,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll226f98h3hslu05g",
+  "id": "505496858",
+  "price": 22405.04,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:48.139724Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:48.165806257Z"
+  },
+  "tsEvent": "2023-03-07T15:38:48.352330694Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154111281"
+  },
+  "amount": 0.02,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll226f98h3hslu070",
+  "id": "505496866",
+  "price": 22409.41,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:48.145640Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:48.176823552Z"
+  },
+  "tsEvent": "2023-03-07T15:38:48.352346259Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154111269"
+  },
+  "amount": 0.03410979,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll226f98h3hslu06g",
+  "id": "505496860",
+  "price": 22406.19,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:48.145640Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:48.176587609Z"
+  },
+  "tsEvent": "2023-03-07T15:38:48.352338322Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154111731"
+  },
+  "amount": 0.0041098,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll226f98h3hslu0ig",
+  "id": "505496870",
+  "price": 22406.19,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:48.273029Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:48.311116184Z"
+  },
+  "tsEvent": "2023-03-07T15:38:48.372153310Z"
+}
+{
+  "amount": 1.0001,
+  "class": "spot",
+  "code": "eth-btc",
+  "exchange": "binc",
+  "sequenceId": "cg3ll2c6h1jih08ajms0",
+  "id": "405653075",
+  "price": 0.069988,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:49.095Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:49.262594153Z"
+  },
+  "tsEvent": "2023-03-07T15:38:49.399951816Z",
+  "additionalProperties": {}
+}
+{
+  "amount": 0.7295,
+  "class": "spot",
+  "code": "eth-btc",
+  "exchange": "binc",
+  "sequenceId": "cg3ll2c6h1jih08ajn1g",
+  "id": "405653076",
+  "price": 0.069988,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:49.134Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:49.301408158Z"
+  },
+  "tsEvent": "2023-03-07T15:38:49.400171829Z",
+  "additionalProperties": {}
+}
+{
+  "additionalProperties": {
+    "sequence": "56154113020"
+  },
+  "amount": 0.0011,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll2a6f98h3hslu1rg",
+  "id": "505496871",
+  "price": 22406.82,
+  "side": "BUY",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:49.480725Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:49.500752159Z"
+  },
+  "tsEvent": "2023-03-07T15:38:49.655877926Z"
+}
+{
+  "amount": 0.01,
+  "class": "spot",
+  "code": "eth-btc",
+  "exchange": "binc",
+  "sequenceId": "cg3ll2c6h1jih08ajuq0",
+  "id": "405653077",
+  "price": 0.069988,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:49.443Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:49.667860035Z"
+  },
+  "tsEvent": "2023-03-07T15:38:49.806351967Z",
+  "additionalProperties": {}
+}
+{
+  "amount": 0.3958,
+  "class": "spot",
+  "code": "eth-btc",
+  "exchange": "binc",
+  "sequenceId": "cg3ll2c6h1jih08ak0j0",
+  "id": "405653078",
+  "price": 0.069988,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:49.556Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:49.771650415Z"
+  },
+  "tsEvent": "2023-03-07T15:38:49.809142856Z",
+  "additionalProperties": {}
+}
+{
+  "additionalProperties": {
+    "sequence": "56154114081"
+  },
+  "amount": 0.00212115,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll2i6f98h3hslu2j0",
+  "id": "505496872",
+  "price": 22407.46,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:50.141508Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:50.165787226Z"
+  },
+  "tsEvent": "2023-03-07T15:38:50.211275962Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154114483"
+  },
+  "amount": 0.00450821,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll2i6f98h3hslu2q0",
+  "id": "505496873",
+  "price": 22406.88,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:50.343930Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:50.371919421Z"
+  },
+  "tsEvent": "2023-03-07T15:38:50.463518284Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154115013"
+  },
+  "amount": 0.00225119,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll2q6f98h3hslu3d0",
+  "id": "505496874",
+  "price": 22406.8,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:50.873642Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:50.891067550Z"
+  },
+  "tsEvent": "2023-03-07T15:38:51.090958938Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154115548"
+  },
+  "amount": 0.01,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll2q6f98h3hslu3eg",
+  "id": "505496877",
+  "price": 22406.35,
+  "side": "BUY",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:51.258867Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:51.275909102Z"
+  },
+  "tsEvent": "2023-03-07T15:38:51.321522959Z"
+}
+{
+  "amount": 0.0241,
+  "class": "spot",
+  "code": "eth-btc",
+  "exchange": "binc",
+  "sequenceId": "cg3ll2s6h1jih08al010",
+  "id": "405653079",
+  "price": 0.069988,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:51.166Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:51.378518478Z"
+  },
+  "tsEvent": "2023-03-07T15:38:51.432553327Z",
+  "additionalProperties": {}
+}
+{
+  "additionalProperties": {
+    "sequence": "56154115473"
+  },
+  "amount": 0.0221,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll2q6f98h3hslu3mg",
+  "id": "505496876",
+  "price": 22405.78,
+  "side": "BUY",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:51.219255Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:51.255972485Z"
+  },
+  "tsEvent": "2023-03-07T15:38:51.321709510Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154115469"
+  },
+  "amount": 0.01,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll2q6f98h3hslu3v0",
+  "id": "505496875",
+  "price": 22406.35,
+  "side": "BUY",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:51.219164Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:51.255772214Z"
+  },
+  "tsEvent": "2023-03-07T15:38:51.321764256Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154115970"
+  },
+  "amount": 0.56791707,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll2q6f98h3hslu4n0",
+  "id": "505496882",
+  "price": 22404.11,
+  "side": "BUY",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:51.625105Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:51.644897241Z"
+  },
+  "tsEvent": "2023-03-07T15:38:51.841566253Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154115996"
+  },
+  "amount": 0.7061341,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll2q6f98h3hslu4ng",
+  "id": "505496883",
+  "price": 22404.11,
+  "side": "BUY",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:51.628542Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:51.647360364Z"
+  },
+  "tsEvent": "2023-03-07T15:38:51.841566244Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154116406"
+  },
+  "amount": 0.00353871,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll2q6f98h3hslu4u0",
+  "id": "505496889",
+  "price": 22399.82,
+  "side": "BUY",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:51.790270Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:51.810535970Z"
+  },
+  "tsEvent": "2023-03-07T15:38:51.841972537Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154116232"
+  },
+  "amount": 0.01,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll2q6f98h3hslu55g",
+  "id": "505496884",
+  "price": 22399.88,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:51.687600Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:51.705883272Z"
+  },
+  "tsEvent": "2023-03-07T15:38:51.842058365Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154116404"
+  },
+  "amount": 0.01878329,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll2q6f98h3hslu5c0",
+  "id": "505496888",
+  "price": 22399.82,
+  "side": "BUY",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:51.790270Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:51.810467160Z"
+  },
+  "tsEvent": "2023-03-07T15:38:51.842112102Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154115953"
+  },
+  "amount": 0.34703425,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll2q6f98h3hslu5kg",
+  "id": "505496880",
+  "price": 22404.11,
+  "side": "BUY",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:51.621931Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:51.641110070Z"
+  },
+  "tsEvent": "2023-03-07T15:38:51.842167387Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154116298"
+  },
+  "amount": 0.01,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll2q6f98h3hslu5k0",
+  "id": "505496886",
+  "price": 22399.88,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:51.749054Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:51.765850707Z"
+  },
+  "tsEvent": "2023-03-07T15:38:51.842167006Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154115949"
+  },
+  "amount": 0.08453051,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll2q6f98h3hslu5o0",
+  "id": "505496878",
+  "price": 22404.15,
+  "side": "BUY",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:51.621931Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:51.641040612Z"
+  },
+  "tsEvent": "2023-03-07T15:38:51.842190139Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154115951"
+  },
+  "amount": 0.0015,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll2q6f98h3hslu5n0",
+  "id": "505496879",
+  "price": 22404.12,
+  "side": "BUY",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:51.621931Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:51.641077470Z"
+  },
+  "tsEvent": "2023-03-07T15:38:51.842184820Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154116394"
+  },
+  "amount": 0.04,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll2q6f98h3hslu5s0",
+  "id": "505496887",
+  "price": 22399.82,
+  "side": "BUY",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:51.783957Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:51.804717866Z"
+  },
+  "tsEvent": "2023-03-07T15:38:51.842219414Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154116263"
+  },
+  "amount": 0.01,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll2q6f98h3hslu5ug",
+  "id": "505496885",
+  "price": 22399.88,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:51.719205Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:51.735082622Z"
+  },
+  "tsEvent": "2023-03-07T15:38:51.842248016Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154115956"
+  },
+  "amount": 0.37891458,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll2q6f98h3hslu630",
+  "id": "505496881",
+  "price": 22404.11,
+  "side": "BUY",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:51.621957Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:51.641160384Z"
+  },
+  "tsEvent": "2023-03-07T15:38:51.842277901Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154116600"
+  },
+  "amount": 0.20000234,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll326f98h3hslu670",
+  "id": "505496890",
+  "price": 22399.81,
+  "side": "BUY",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:51.893232Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:51.919616212Z"
+  },
+  "tsEvent": "2023-03-07T15:38:52.042092642Z"
+}
+{
+  "amount": 0.0266,
+  "class": "spot",
+  "code": "eth-btc",
+  "exchange": "binc",
+  "sequenceId": "cg3ll346h1jih08almu0",
+  "id": "405653080",
+  "price": 0.069988,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:51.717Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:52.049543923Z"
+  },
+  "tsEvent": "2023-03-07T15:38:52.249256958Z",
+  "additionalProperties": {}
+}
+{
+  "amount": 1.0,
+  "class": "spot",
+  "code": "eth-btc",
+  "exchange": "binc",
+  "sequenceId": "cg3ll346h1jih08alvsg",
+  "id": "405653081",
+  "price": 0.069987,
+  "side": "BUY",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:52.365Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:52.593538848Z"
+  },
+  "tsEvent": "2023-03-07T15:38:52.655434122Z",
+  "additionalProperties": {}
+}
+{
+  "amount": 0.198,
+  "class": "spot",
+  "code": "eth-btc",
+  "exchange": "binc",
+  "sequenceId": "cg3ll346h1jih08alvs0",
+  "id": "405653083",
+  "price": 0.069987,
+  "side": "BUY",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:52.365Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:52.593565753Z"
+  },
+  "tsEvent": "2023-03-07T15:38:52.655431257Z",
+  "additionalProperties": {}
+}
+{
+  "amount": 0.002,
+  "class": "spot",
+  "code": "eth-btc",
+  "exchange": "binc",
+  "sequenceId": "cg3ll346h1jih08alvvg",
+  "id": "405653082",
+  "price": 0.069987,
+  "side": "BUY",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:52.365Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:52.593551111Z"
+  },
+  "tsEvent": "2023-03-07T15:38:52.655447391Z",
+  "additionalProperties": {}
+}
+{
+  "additionalProperties": {
+    "sequence": "56154117578"
+  },
+  "amount": 0.00039811,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll3a6f98h3hslu950",
+  "id": "505496891",
+  "price": 22400.45,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:53.023032Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:53.046974946Z"
+  },
+  "tsEvent": "2023-03-07T15:38:53.124064736Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154117717"
+  },
+  "amount": 0.10292638,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll3a6f98h3hslu990",
+  "id": "505496894",
+  "price": 22400.45,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:53.186390Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:53.205839185Z"
+  },
+  "tsEvent": "2023-03-07T15:38:53.240030511Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154117713"
+  },
+  "amount": 0.07099879,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll3a6f98h3hslu980",
+  "id": "505496892",
+  "price": 22400.44,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:53.186390Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:53.205774467Z"
+  },
+  "tsEvent": "2023-03-07T15:38:53.240008711Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154117715"
+  },
+  "amount": 0.00023068,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll3a6f98h3hslu9b0",
+  "id": "505496893",
+  "price": 22400.45,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:53.186390Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:53.205813199Z"
+  },
+  "tsEvent": "2023-03-07T15:38:53.240060654Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154118278"
+  },
+  "amount": 3.224e-05,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll3a6f98h3hslu9r0",
+  "id": "505496895",
+  "price": 22400.17,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:53.744471Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:53.756381924Z"
+  },
+  "tsEvent": "2023-03-07T15:38:53.792086281Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154118954"
+  },
+  "amount": 0.03,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll3i6f98h3hsluao0",
+  "id": "505496896",
+  "price": 22399.81,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:54.367609Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:54.379934953Z"
+  },
+  "tsEvent": "2023-03-07T15:38:54.503001121Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154118958"
+  },
+  "amount": 0.06742699,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll3i6f98h3hslub0g",
+  "id": "505496898",
+  "price": 22399.82,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:54.367609Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:54.380053331Z"
+  },
+  "tsEvent": "2023-03-07T15:38:54.503147451Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154118956"
+  },
+  "amount": 0.10846633,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll3i6f98h3hslub00",
+  "id": "505496897",
+  "price": 22399.81,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:54.367609Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:54.379975978Z"
+  },
+  "tsEvent": "2023-03-07T15:38:54.503145159Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154119274"
+  },
+  "amount": 0.10372822,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll3i6f98h3hslubmg",
+  "id": "505496901",
+  "price": 22400.68,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:54.663859Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:54.685840685Z"
+  },
+  "tsEvent": "2023-03-07T15:38:54.727713408Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154119270"
+  },
+  "amount": 0.01,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll3i6f98h3hslubqg",
+  "id": "505496899",
+  "price": 22399.81,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:54.663859Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:54.685752661Z"
+  },
+  "tsEvent": "2023-03-07T15:38:54.727744118Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154119272"
+  },
+  "amount": 0.10467584,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll3i6f98h3hslubv0",
+  "id": "505496900",
+  "price": 22400.67,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:54.663859Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:54.685803586Z"
+  },
+  "tsEvent": "2023-03-07T15:38:54.727771113Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154119747"
+  },
+  "amount": 0.01,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll3q6f98h3hsluc30",
+  "id": "505496902",
+  "price": 22400.17,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:55.232219Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:55.258295208Z"
+  },
+  "tsEvent": "2023-03-07T15:38:55.375206993Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154119855"
+  },
+  "amount": 0.01,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll3q6f98h3hsluca0",
+  "id": "505496903",
+  "price": 22400.73,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:55.296447Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:55.311664723Z"
+  },
+  "tsEvent": "2023-03-07T15:38:55.375344382Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154120396"
+  },
+  "amount": 0.01,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll3q6f98h3hslucjg",
+  "id": "505496904",
+  "price": 22403.77,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:55.572385Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:55.603717811Z"
+  },
+  "tsEvent": "2023-03-07T15:38:55.621094922Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154120480"
+  },
+  "amount": 0.01,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll3q6f98h3hslucng",
+  "id": "505496906",
+  "price": 22403.35,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:55.601453Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:55.620671968Z"
+  },
+  "tsEvent": "2023-03-07T15:38:55.621126318Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154120436"
+  },
+  "amount": 0.00892591,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll3q6f98h3hslud30",
+  "id": "505496905",
+  "price": 22403.34,
+  "side": "BUY",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:55.586458Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:55.606971959Z"
+  },
+  "tsEvent": "2023-03-07T15:38:55.621167805Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154120533"
+  },
+  "amount": 0.01,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll3q6f98h3hsludm0",
+  "id": "505496907",
+  "price": 22403.78,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:55.631518Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:55.652002132Z"
+  },
+  "tsEvent": "2023-03-07T15:38:55.831805533Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154120586"
+  },
+  "amount": 8.46e-06,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll3q6f98h3hsludp0",
+  "id": "505496908",
+  "price": 22403.79,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:55.655001Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:55.668619624Z"
+  },
+  "tsEvent": "2023-03-07T15:38:55.832064042Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154121307"
+  },
+  "amount": 0.0004,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll426f98h3hsluec0",
+  "id": "505496910",
+  "price": 22401.0,
+  "side": "BUY",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:56.173325Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:56.200709950Z"
+  },
+  "tsEvent": "2023-03-07T15:38:56.370327202Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154121303"
+  },
+  "amount": 0.01,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll426f98h3hslueig",
+  "id": "505496909",
+  "price": 22401.57,
+  "side": "BUY",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:56.173247Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:56.200642648Z"
+  },
+  "tsEvent": "2023-03-07T15:38:56.370397648Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154121501"
+  },
+  "amount": 0.0059,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll426f98h3hslueo0",
+  "id": "505496911",
+  "price": 22401.57,
+  "side": "BUY",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:56.264298Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:56.287920194Z"
+  },
+  "tsEvent": "2023-03-07T15:38:56.370430882Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154122042"
+  },
+  "amount": 0.044,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll426f98h3hsluf30",
+  "id": "505496915",
+  "price": 22403.6,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:56.571147Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:56.591437398Z"
+  },
+  "tsEvent": "2023-03-07T15:38:56.803960809Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154122017"
+  },
+  "amount": 0.03026754,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll426f98h3hsluf40",
+  "id": "505496914",
+  "price": 22405.22,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:56.568148Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:56.590770582Z"
+  },
+  "tsEvent": "2023-03-07T15:38:56.803966907Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154121936"
+  },
+  "amount": 0.06835627,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll426f98h3hsluf70",
+  "id": "505496912",
+  "price": 22401.25,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:56.555817Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:56.573750677Z"
+  },
+  "tsEvent": "2023-03-07T15:38:56.803987590Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154121939"
+  },
+  "amount": 0.06176684,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll426f98h3hsluf80",
+  "id": "505496913",
+  "price": 22401.26,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:56.555817Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:56.585740605Z"
+  },
+  "tsEvent": "2023-03-07T15:38:56.804033785Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154122192"
+  },
+  "amount": 0.01,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll426f98h3hsluffg",
+  "id": "505496917",
+  "price": 22403.59,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:56.592631Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:56.619362685Z"
+  },
+  "tsEvent": "2023-03-07T15:38:56.804156694Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154122044"
+  },
+  "amount": 0.08927177,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll426f98h3hslufa0",
+  "id": "505496916",
+  "price": 22405.41,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:56.571147Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:56.608243946Z"
+  },
+  "tsEvent": "2023-03-07T15:38:56.804126489Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154122833"
+  },
+  "amount": 0.00251769,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll4a6f98h3hslufig",
+  "id": "505496918",
+  "price": 22404.46,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:57.030887Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:57.051198755Z"
+  },
+  "tsEvent": "2023-03-07T15:38:57.071094058Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154123122"
+  },
+  "amount": 0.01,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll4a6f98h3hslufr0",
+  "id": "505496919",
+  "price": 22405.04,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:57.175110Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:57.191925022Z"
+  },
+  "tsEvent": "2023-03-07T15:38:57.367209885Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154123314"
+  },
+  "amount": 0.00212149,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll4a6f98h3hslufqg",
+  "id": "505496920",
+  "price": 22405.61,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:57.304042Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:57.318239060Z"
+  },
+  "tsEvent": "2023-03-07T15:38:57.367206479Z"
+}
+{
+  "amount": 0.002,
+  "class": "spot",
+  "code": "eth-btc",
+  "exchange": "binc",
+  "sequenceId": "cg3ll4c6h1jih08apul0",
+  "id": "405653084",
+  "price": 0.069986,
+  "side": "BUY",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:57.637Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:57.885756647Z"
+  },
+  "tsEvent": "2023-03-07T15:38:57.940350918Z",
+  "additionalProperties": {}
+}
+{
+  "amount": 0.1233,
+  "class": "spot",
+  "code": "eth-btc",
+  "exchange": "binc",
+  "sequenceId": "cg3ll4c6h1jih08apulg",
+  "id": "405653085",
+  "price": 0.069986,
+  "side": "BUY",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:57.637Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:57.885789821Z"
+  },
+  "tsEvent": "2023-03-07T15:38:57.940355042Z",
+  "additionalProperties": {}
+}
+{
+  "additionalProperties": {
+    "sequence": "56154123793"
+  },
+  "amount": 0.01,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll4a6f98h3hslugk0",
+  "id": "505496924",
+  "price": 22404.4,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:57.795411Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:57.812198865Z"
+  },
+  "tsEvent": "2023-03-07T15:38:57.960871976Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154123742"
+  },
+  "amount": 0.06707054,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll4a6f98h3hslugjg",
+  "id": "505496923",
+  "price": 22405.57,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:57.768112Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:57.802100686Z"
+  },
+  "tsEvent": "2023-03-07T15:38:57.960870992Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154123738"
+  },
+  "amount": 0.01,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll4a6f98h3hslugng",
+  "id": "505496921",
+  "price": 22404.98,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:57.768112Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:57.802024022Z"
+  },
+  "tsEvent": "2023-03-07T15:38:57.960936748Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154123810"
+  },
+  "amount": 0.01,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll4a6f98h3hslugn0",
+  "id": "505496925",
+  "price": 22404.97,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:57.806211Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:57.828949186Z"
+  },
+  "tsEvent": "2023-03-07T15:38:57.960930663Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154123740"
+  },
+  "amount": 0.01,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll4a6f98h3hslugo0",
+  "id": "505496922",
+  "price": 22405.56,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:57.768112Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:57.802055523Z"
+  },
+  "tsEvent": "2023-03-07T15:38:57.960937235Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154123814"
+  },
+  "amount": 0.08116244,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll4a6f98h3hslugq0",
+  "id": "505496927",
+  "price": 22405.16,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:57.806211Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:57.829016609Z"
+  },
+  "tsEvent": "2023-03-07T15:38:57.960946076Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154124014"
+  },
+  "amount": 0.10345353,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll4a6f98h3hslugrg",
+  "id": "505496928",
+  "price": 22404.97,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:57.906727Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:57.934573227Z"
+  },
+  "tsEvent": "2023-03-07T15:38:57.960948475Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154123812"
+  },
+  "amount": 0.10473956,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll4a6f98h3hslugu0",
+  "id": "505496926",
+  "price": 22405.15,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:57.806211Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:57.828992684Z"
+  },
+  "tsEvent": "2023-03-07T15:38:57.960964319Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154124063"
+  },
+  "amount": 0.07951919,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll4i6f98h3hsluh0g",
+  "id": "505496929",
+  "price": 22404.98,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:57.939139Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:57.952026817Z"
+  },
+  "tsEvent": "2023-03-07T15:38:58.168325095Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154124496"
+  },
+  "amount": 0.00216514,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll4i6f98h3hsluhn0",
+  "id": "505496931",
+  "price": 22405.6,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:58.476463Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:58.495957840Z"
+  },
+  "tsEvent": "2023-03-07T15:38:58.683885111Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154124493"
+  },
+  "amount": 4.781e-05,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll4i6f98h3hsluhpg",
+  "id": "505496930",
+  "price": 22405.6,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:58.476452Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:58.495873969Z"
+  },
+  "tsEvent": "2023-03-07T15:38:58.683904323Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154124522"
+  },
+  "amount": 0.03056119,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll4i6f98h3hsluhs0",
+  "id": "505496932",
+  "price": 22405.59,
+  "side": "BUY",
+  "tsExchange": {
+    "value": "2023-03-07T15:38:58.499652Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:38:58.527466835Z"
+  },
+  "tsEvent": "2023-03-07T15:38:58.683937622Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154125956"
+  },
+  "amount": 0.01,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll526f98h3hsluj1g",
+  "id": "505496933",
+  "price": 22402.44,
+  "side": "BUY",
+  "tsExchange": {
+    "value": "2023-03-07T15:39:00.211095Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:39:00.241295393Z"
+  },
+  "tsEvent": "2023-03-07T15:39:00.350064375Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154125958"
+  },
+  "amount": 0.121,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll526f98h3hsluj60",
+  "id": "505496934",
+  "price": 22401.82,
+  "side": "BUY",
+  "tsExchange": {
+    "value": "2023-03-07T15:39:00.211095Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:39:00.241326990Z"
+  },
+  "tsEvent": "2023-03-07T15:39:00.350193380Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154125960"
+  },
+  "amount": 4.283e-05,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll526f98h3hslujbg",
+  "id": "505496935",
+  "price": 22401.0,
+  "side": "BUY",
+  "tsExchange": {
+    "value": "2023-03-07T15:39:00.211095Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:39:00.241374146Z"
+  },
+  "tsEvent": "2023-03-07T15:39:00.350236830Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154126731"
+  },
+  "amount": 0.002,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll526f98h3hslujs0",
+  "id": "505496936",
+  "price": 22399.85,
+  "side": "BUY",
+  "tsExchange": {
+    "value": "2023-03-07T15:39:00.577139Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:39:00.589010140Z"
+  },
+  "tsEvent": "2023-03-07T15:39:00.770797107Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154126733"
+  },
+  "amount": 0.004762,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll526f98h3hsluk10",
+  "id": "505496937",
+  "price": 22399.84,
+  "side": "BUY",
+  "tsExchange": {
+    "value": "2023-03-07T15:39:00.577139Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:39:00.589050944Z"
+  },
+  "tsEvent": "2023-03-07T15:39:00.770822630Z"
+}
+{
+  "amount": 0.0391,
+  "class": "spot",
+  "code": "eth-btc",
+  "exchange": "binc",
+  "sequenceId": "cg3ll5c6h1jih08arjp0",
+  "id": "405653087",
+  "price": 0.069985,
+  "side": "BUY",
+  "tsExchange": {
+    "value": "2023-03-07T15:39:00.783Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:39:01.129635814Z"
+  },
+  "tsEvent": "2023-03-07T15:39:01.186481500Z",
+  "additionalProperties": {}
+}
+{
+  "amount": 0.002,
+  "class": "spot",
+  "code": "eth-btc",
+  "exchange": "binc",
+  "sequenceId": "cg3ll5c6h1jih08arju0",
+  "id": "405653086",
+  "price": 0.069985,
+  "side": "BUY",
+  "tsExchange": {
+    "value": "2023-03-07T15:39:00.783Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:39:01.129604183Z"
+  },
+  "tsEvent": "2023-03-07T15:39:01.186514898Z",
+  "additionalProperties": {}
+}
+{
+  "additionalProperties": {
+    "sequence": "56154127302"
+  },
+  "amount": 0.03,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll5a6f98h3hsluksg",
+  "id": "505496938",
+  "price": 22399.8,
+  "side": "BUY",
+  "tsExchange": {
+    "value": "2023-03-07T15:39:01.131200Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:39:01.149658998Z"
+  },
+  "tsEvent": "2023-03-07T15:39:01.226121992Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154127305"
+  },
+  "amount": 0.05,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll5a6f98h3hslul9g",
+  "id": "505496939",
+  "price": 22399.8,
+  "side": "BUY",
+  "tsExchange": {
+    "value": "2023-03-07T15:39:01.131230Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:39:01.149723112Z"
+  },
+  "tsEvent": "2023-03-07T15:39:01.226306230Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154127448"
+  },
+  "amount": 0.07,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll5a6f98h3hslulc0",
+  "id": "505496940",
+  "price": 22397.34,
+  "side": "BUY",
+  "tsExchange": {
+    "value": "2023-03-07T15:39:01.155002Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:39:01.173154426Z"
+  },
+  "tsEvent": "2023-03-07T15:39:01.226328048Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154129857"
+  },
+  "amount": 0.03889451,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll5i6f98h3hslumm0",
+  "id": "505496943",
+  "price": 22398.46,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:39:02.946704Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:39:02.976658618Z"
+  },
+  "tsEvent": "2023-03-07T15:39:02.994389664Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154129853"
+  },
+  "amount": 0.033483,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll5i6f98h3hslumkg",
+  "id": "505496941",
+  "price": 22398.44,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:39:02.946704Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:39:02.976587325Z"
+  },
+  "tsEvent": "2023-03-07T15:39:02.994382742Z"
+}
+{
+  "additionalProperties": {
+    "sequence": "56154129855"
+  },
+  "amount": 0.09512672,
+  "class": "spot",
+  "code": "btc-usd",
+  "exchange": "cbse",
+  "sequenceId": "cg3ll5i6f98h3hslums0",
+  "id": "505496942",
+  "price": 22398.45,
+  "side": "SELL",
+  "tsExchange": {
+    "value": "2023-03-07T15:39:02.946704Z"
+  },
+  "tsCollection": {
+    "value": "2023-03-07T15:39:02.976628794Z"
+  },
+  "tsEvent": "2023-03-07T15:39:02.994465985Z"
+}
