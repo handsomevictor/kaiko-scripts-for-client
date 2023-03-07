@@ -73,6 +73,7 @@ def run():
     # save data to local, create a txt file, if it exists, delete it
     if os.path.exists('data_example_trades.txt'):
         os.remove('data_example_trades.txt')
+        print('delete old data file')
 
     with ProcessPoolExecutor(max_workers=len(target)) as pool:
         pool.map(market_update_request, exchange_lst, instrument_class_lst, code_lst)
