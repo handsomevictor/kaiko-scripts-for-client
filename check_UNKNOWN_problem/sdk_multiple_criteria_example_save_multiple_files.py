@@ -23,29 +23,29 @@ from concurrent.futures import ProcessPoolExecutor
 import os
 
 
-# def trade_request(exchange, instrument_class, code):
-#     credentials = grpc.ssl_channel_credentials(root_certificates=None)
-#     call_credentials = grpc.access_token_call_credentials(os.environ['KAIKO_API_KEY'])
-#     composite_credentials = grpc.composite_channel_credentials(credentials, call_credentials)
-#     channel = grpc.secure_channel('gateway-v0-grpc.kaiko.ovh', composite_credentials)
-#
-#     try:
-#         with channel:
-#             stub = sdk_pb2_grpc.StreamTradesServiceV1Stub(channel)
-#             responses = stub.Subscribe(pb_trades.StreamTradesRequestV1(
-#                 instrument_criteria=instrument_criteria_pb2.InstrumentCriteria(
-#                     exchange=exchange,
-#                     instrument_class=instrument_class,
-#                     code=code
-#                 )
-#             ))
-#             for response in responses:
-#                 print("Received message %s" % (MessageToJson(response, including_default_value_fields = True)))
-#                 # save data to local
-#                 with open('data_example_trades.txt', 'a') as f:
-#                     f.write(MessageToJson(response, including_default_value_fields=True) + '\n')
-#     except grpc.RpcError as e:
-#         print(e.details(), e.code())
+def trade_request(exchange, instrument_class, code):
+    credentials = grpc.ssl_channel_credentials(root_certificates=None)
+    call_credentials = grpc.access_token_call_credentials(os.environ['KAIKO_API_KEY'])
+    composite_credentials = grpc.composite_channel_credentials(credentials, call_credentials)
+    channel = grpc.secure_channel('gateway-v0-grpc.kaiko.ovh', composite_credentials)
+
+    try:
+        with channel:
+            stub = sdk_pb2_grpc.StreamTradesServiceV1Stub(channel)
+            responses = stub.Subscribe(pb_trades.StreamTradesRequestV1(
+                instrument_criteria=instrument_criteria_pb2.InstrumentCriteria(
+                    exchange=exchange,
+                    instrument_class=instrument_class,
+                    code=code
+                )
+            ))
+            for response in responses:
+                print("Received message %s" % (MessageToJson(response, including_default_value_fields = True)))
+                # save data to local
+                with open('data_example_trades.txt', 'a') as f:
+                    f.write(MessageToJson(response, including_default_value_fields=True) + '\n')
+    except grpc.RpcError as e:
+        print(e.details(), e.code())
 
 
 def ohlcv_request(exchange, instrument_class, code):
